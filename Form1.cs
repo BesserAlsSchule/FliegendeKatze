@@ -9,7 +9,6 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//Ein Kommentar von Raphael
 namespace WindowsFormsApp9
 {
     public partial class Form1 : Form

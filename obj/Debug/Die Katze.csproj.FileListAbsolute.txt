@@ -1,0 +1,19 @@
+C:\Users\firas\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\firas\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\firas\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\firas\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\firas\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\firas\source\repos\WindowsFormsApp9\obj\Debug\Die Katze.csproj.GenerateResource.cache
+C:\Users\firas\source\repos\WindowsFormsApp9\obj\Debug\Die Katze.csproj.CoreCompileInputs.cache
+C:\Users\firas\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\firas\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\firas\source\repos\Die Katze\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\firas\source\repos\Die Katze\bin\Debug\WindowsFormsApp9.exe
+C:\Users\firas\source\repos\Die Katze\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\firas\source\repos\Die Katze\obj\Debug\Die Katze.csprojAssemblyReference.cache
+C:\Users\firas\source\repos\Die Katze\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\firas\source\repos\Die Katze\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\firas\source\repos\Die Katze\obj\Debug\Die Katze.csproj.GenerateResource.cache
+C:\Users\firas\source\repos\Die Katze\obj\Debug\Die Katze.csproj.CoreCompileInputs.cache
+C:\Users\firas\source\repos\Die Katze\obj\Debug\WindowsFormsApp9.exe
+C:\Users\firas\source\repos\Die Katze\obj\Debug\WindowsFormsApp9.pdb
